@@ -1,2 +1,4 @@
 node_modules
 Dicoding.pem
+.env
+.prod.env
